@@ -1,0 +1,2 @@
+# SMART-TRAVEL-MANAGEMENT
+This project came into picture when RTI application no. “PD/PIU Jal/2012/RTI/140/2884” informs that after a given weighting time user can’t be charge at toll for the highway usage so a weighting time subjected charging can be implemented using this app.  Now transport will become even smarter then ever as vehicles would not have to wait for more than 30 seconds and traffic will be reduced to its minimum.
